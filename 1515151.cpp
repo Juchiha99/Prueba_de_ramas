@@ -7,7 +7,7 @@ int main(){
     int matriz1[10][10],matriz2[10][10];
     int filas, columnas;
     int i, j;
-    cout<<"Hola mundo yo he creado lo demas";
+    cout<<"Hola mundo no he creado lo demas";
     cout<<"Ingrese el numero de filas: ";
     cin>>filas;
     
