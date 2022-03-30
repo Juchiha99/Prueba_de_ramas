@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 int m,n;
-  cout<<"Esta es la rama de prueba";
+  cout<<"Que onda marvin";
   cout<<"Ingrese el numero de filas y columnas: ";
   cin>>m>>n;
   int  A[m][n],B[m][n],C[m][n];
